@@ -1,0 +1,23 @@
+{
+  "shutdown_time": "2025-10-31T16:49:17.279158",
+  "final_performance_stats": {
+    "total_frames_processed": 0,
+    "average_processing_time": 0.0,
+    "total_replans": 5,
+    "total_distance_traveled": 138.35687142047544,
+    "system_uptime": 0.0,
+    "error_count": 0,
+    "recovery_count": 0,
+    "camera_failures": 0,
+    "path_failures": 0
+  },
+  "system_status": {
+    "camera_available": true,
+    "map_loaded": true,
+    "navigation_active": false,
+    "emergency_stop": false,
+    "degraded_mode": false,
+    "last_error": null
+  },
+  "total_uptime": 54.27147030830383
+}
